@@ -1,4 +1,0 @@
-# SQL injection vulnerability example code
-def vulnerable_function(user_input):
-    sql_query = "SELECT * FROM users WHERE username = '" + user_input + "';"
-    # Execute the SQL query...
